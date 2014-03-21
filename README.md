@@ -1,4 +1,4 @@
-Desktop and Download Clearing for Alfred2
+Desktop and Download Clearing for Alfred 2
 ===============
 
 

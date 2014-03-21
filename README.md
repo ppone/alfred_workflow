@@ -3,6 +3,9 @@ Desktop and Download Clearing for Alfred 2
 
 
 ## Prequisites
+
+Need to have Alfred 2 with the PowerPack enabled
+
 Need to install trash through homebrew
 
 ```
